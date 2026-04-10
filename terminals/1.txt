@@ -1,0 +1,6 @@
+---
+pid: 7152
+cwd: |
+  C:\Users\nisho
+---
+PS C:\Users\nisho>
